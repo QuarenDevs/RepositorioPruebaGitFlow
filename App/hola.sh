@@ -3,7 +3,7 @@
 function saludar()
 {
 
-echo "Hola QuarenDevs"
+echo "Hola a todos los QuarenDevs"
 
 
 }
